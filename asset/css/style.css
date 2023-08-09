@@ -141,7 +141,7 @@ strong{
     width: 100%;
 }
 
-.second-section{
+:is(.second-section, .fourt-section){
     background-color: var(--dark2);
     display: flex;
     flex-direction: column;
