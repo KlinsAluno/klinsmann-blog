@@ -83,3 +83,14 @@ button{
     background-color: var(--dark2);
     border: 1px solid var(--dark3);
 }
+
+main{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+section{
+    padding: 4rem;
+}
+
